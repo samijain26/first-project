@@ -1,0 +1,237 @@
+<style type="text/css">
+				*{
+					margin: 0px;
+					padding: 0px;
+				}
+			   body{background-color: aquamarine;
+			   		margin: 3px;
+			   		padding: 3px;
+
+			        }
+				h1
+				{
+					font: cursive;
+					color: plum;
+				}
+				h2
+				{
+					 font-family: sans-serif;
+					color: red;
+					text-decoration: underline;
+					margin-left: 20px;
+					font-size: 24px;
+				}
+				h3
+				{
+					color: maroon;
+					 font-style: italic;
+					 margin-left: 15px; 
+					 font-size: xx-large;
+					  margin-top: 14px;
+				}
+
+			
+				p
+				{
+					font-style:oblique;
+					color: yellow;
+					font-size: 16px;
+					margin-left: 20px;
+					margin-right: 20px;
+
+				 }
+
+				#para2
+				{
+					color: maroon;
+					font-size: 24px;
+					font-style: italic;
+				}
+				#para3
+				{
+					color:darkred; 
+					display:block;
+					font-style: inherit;}
+				#para4
+				{
+					color:darkgreen;
+					
+				}
+
+				li
+				{
+					color:fuchsia;
+					justify-content: left;
+					font-style: oblique;
+				}
+				.list
+				{
+					text-decoration: underline;
+				}
+
+				a
+				{
+					font-family: cursive;
+					font-size: xx-large;
+				}
+				#center
+				{
+					width: 120px;
+					height: 120px;
+				}
+
+				img
+				{
+					width: 100px;
+					height: 90px;
+					border-radius: 14px;
+					padding-bottom: 14px;
+					
+
+				}
+				#size
+				{
+					
+					width: 200px;
+					height: 200px;
+					
+					
+				}
+				
+			#div1
+				{	
+					background-color: seagreen;
+					text-align:center;
+					display:inline-block;
+					position: relative;
+					height: 730PX;
+			 		border-radius: 30px ;
+			 		margin-left: 80px;
+			 		margin-right: 10px;
+			 		margin-bottom: 4px;
+			 		margin-top: 4px;
+			 	}
+			#div2
+				{
+					background-color: blue;
+					position: absolute;
+					display: run-in;
+					width:500px;
+					height: 290PX;
+					text-align: left;
+					margin-left:10px;
+					margin-bottom: 3px;
+					border-radius: 30px;
+					bottom: 5px;
+					left: 3px;
+					padding-bottom: 2px;
+				}
+			#div3
+				{background-color: crimson;
+					text-align:left;
+					position: absolute;
+					width:600px ;
+			 		border-radius: 30px ;
+			 		left:550px;
+			 		padding-bottom: 5px;
+			 		bottom: 8px;
+				
+				}
+			#div4
+				{
+					background-color: skyblue;
+					position: absolute; 
+					border-radius: 40px;
+					right: 10px;
+					bottom: 8px;
+					width: 200px;
+					padding-left: 15px;
+					padding-bottom: 5px;
+				}
+			#div5
+				{	
+					
+			 	}
+			 #div6
+				{	
+					background-color: coral;
+					text-align:left: ;
+					display:inline-block;
+					position: relative;
+					
+			 		border-radius: 30px ;
+			 		margin-left: 10px;
+			 		margin-right: 10px;
+			 		margin-bottom: 4px;
+			 		margin-top: 4px;
+			 		top: 3px;
+			 		left: 3px;
+			 	}
+			 	#div7
+				{
+					background-color: blue;
+					display: run-in;
+					position:absolute;
+					width:800px;
+					height:500px;
+					text-align: left;
+					margin-left:10px;
+					margin-bottom: 10px;
+					border-radius: 30px;
+					bottom: 3px;
+					left: 3px;
+				}		
+			 #div8
+				{
+					background-color: crimson;
+					border-radius: 30px;
+					width:700px;
+					margin-left: 40px;
+					margin-top: 30px;
+					position: absolute;
+					height: 150px;
+					padding-top: 5px;
+					padding-bottom: 5px;
+					right: 3px;
+					top: 3px;
+				}
+				#div9
+				{
+					background-color: skyblue;
+					position: absolute; 
+					border-radius: 40px;
+					right: 10px;
+					bottom: 8px;
+					width: 600px;
+					padding-left: 15px;
+					padding-bottom: 5px;
+				}
+			table
+				{   
+					padding-left: 40px;
+					font-color: aquamarine;
+					border-radius: 10px;
+				}
+			tr 
+			{
+				font-style: italic;
+				border-width: 40px;
+				margin-bottom:5px;
+			 	text-align: center;
+			}
+		
+			.button 
+				{
+					background-color:darkblue;
+					border-radius:20px 30px ;
+  					color: gold;
+  					width: 150px;
+  					text-align: center;
+  					font-size:20px
+
+
+  				}
+
+		
+	
+</style>
